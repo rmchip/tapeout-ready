@@ -150,4 +150,4 @@ Each combination moves the setup/hold reference edges. This is a favorite STA in
 
 ---
 
-**Next:** 02 — Metastability & Synchronizers *(coming soon)*
+**Next:** 02 — Timing Between Different Flop Types *(coming soon)*
