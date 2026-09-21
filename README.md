@@ -10,7 +10,7 @@ Or browse the markdown directly:
 |---|-------|--------|
 | 1 | [Combinational Logic](./docs/01-combinational-logic/) | 🚧 In progress |
 | 2 | [Flip-Flops & Timing](./docs/02-flip-flops/) | 🚧 In progress |
-| 3 | Clock Domain Crossing | 📝 Planned |
+| 3 | [Clock Domain Crossing](./docs/03-cdc/) | 🚧 In progress |
 | 4 | Resets | 📝 Planned |
 | 5 | Power | 📝 Planned |
 

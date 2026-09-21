@@ -15,4 +15,4 @@ What physically happens inside a flop around the clock edge — and everything t
 
 - [VLSI Universe](https://vlsiuniverse.blogspot.com) — best free resource for setup/hold checks between different flop types, latches, and gated clocks.
 
-**Prev track:** [← Combinational Logic](../01-combinational-logic/README.md)
+**Prev track:** [← Combinational Logic](../01-combinational-logic/README.md) · **Next track:** [Clock Domain Crossing →](../03-cdc/README.md)

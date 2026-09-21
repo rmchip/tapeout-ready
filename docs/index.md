@@ -10,7 +10,7 @@ Tracks build on each other — start at Track 1. Each track is a series of short
 |---|-------|--------|----------------|
 | 1 | [Combinational Logic](01-combinational-logic/README.md) | 🚧 In progress | Gates from muxes, mux trees & area scaling, adders |
 | 2 | [Flip-Flops & Timing](02-flip-flops/README.md) | 🚧 In progress | FF internals, setup/hold, skew, jitter, metastability |
-| 3 | Clock Domain Crossing | 📝 Planned | Synchronizers, async FIFOs, CDC verification |
+| 3 | [Clock Domain Crossing](03-cdc/README.md) | 🚧 In progress | The Cummings paper, synchronizers, async FIFOs |
 | 4 | Resets | 📝 Planned | Sync vs async reset, reset synchronizers, reset trees |
 | 5 | Power | 📝 Planned | Clock gating, power gating, UPF, multi-Vt |
 

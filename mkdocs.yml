@@ -45,3 +45,6 @@ nav:
   - Track 2 — Flip-Flops & Timing:
       - Overview: 02-flip-flops/README.md
       - 01 · Setup, Hold, Skew & Jitter: 02-flip-flops/01-setup-hold-skew-jitter.md
+  - Track 3 — Clock Domain Crossing:
+      - Overview: 03-cdc/README.md
+      - 01 · Read This Paper — Cummings on CDC: 03-cdc/01-cummings-cdc-paper.md
