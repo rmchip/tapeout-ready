@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+         <loc>https://rmchip.github.io/tapeout-ready/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://rmchip.github.io/tapeout-ready/01-combinational-logic/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://rmchip.github.io/tapeout-ready/01-combinational-logic/01-muxes-and-adders/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://rmchip.github.io/tapeout-ready/02-flip-flops/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://rmchip.github.io/tapeout-ready/02-flip-flops/01-setup-hold-skew-jitter/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://rmchip.github.io/tapeout-ready/03-cdc/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+    <url>
+         <loc>https://rmchip.github.io/tapeout-ready/03-cdc/01-cummings-cdc-paper/</loc>
+         <lastmod>2026-09-21</lastmod>
+    </url>
+</urlset>
